@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DicodingSubmission</string>
+    <string name="name_video_stream">Nama Video Stream</string>
+    <string name="about">about</string>
+    <string name="detail_content">Detail isi Content</string>
+    <string name="founded">Founded</string>
+    <string name="founded_value">Since</string>
+    <string name="founder">Founder</string>
+    <string name="founder_value">CEO</string>
+    <string name="headquarters">Headquarters</string>
+    <string name="headquarters_value">location</string>
+    <string name="website">Website</string>
+    <string name="website_value">url</string>
+    <string name="name_me">Rizal Widhi Asyari</string>
+    <string name="email_me">risulrisul@gmail.com</string>
+    <string name="btn_send_email">Send Email</string>
+</resources>
